@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 ---
 
 ### 📫 How to Reach Me:
-- **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/emmanuel-danquah-b6b1b01b0)
+- **LinkedIn:** [linkedin.com/in/emmanuel-danquah-b6b1b01b0](https://www.linkedin.com/in/emmanuel-danquah-b6b1b01b0)
 - **Email:** kemmanue662@gmail.com
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **X:** [@yourhandle](https://x.com/_Danquah_)
 
 ---
 
