@@ -52,7 +52,4 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=EKD&theme=radical)
 
-### ⚡ Fun Fact:
-I love solving problems in my spare time and diving into **data structures** and **algorithms** to sharpen my coding skills!
-
-
+ 
