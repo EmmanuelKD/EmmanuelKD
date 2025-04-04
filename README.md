@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 - **Solana Pay Integration:** A YouTube tutorial demonstrating how to handle transfer requests using Solana Pay. [Watch it here](https://www.youtube.com/@emmanuelkofi8343)
 
 ### 💡 Interests:
-- Blockchain innovations and **decentralized finance (DeFi)**.
 - Using **AI/ML** to automate and enhance software development workflows.
+- Blockchain innovations and **decentralized finance (DeFi)**.
 - **Open-source contributions** and learning from the developer community.
 
 ---
