@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a **software engineer** with a passion for solving real-world problems through technology. With expertise in **full-stack development**, I build scalable and efficient systems. My goal is to develop innovative solutions that make an impact, whether for local communities or global audiences.
 
 ---
+![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelKD&show_icons=true&theme=radical)
 
 ### 🔭 What I’m Currently Working On:
 - **Innovative applications** in the fields of logistics.
@@ -41,7 +42,7 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 ---
 
 ### 📈 GitHub Stats:
-![Kofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelKD&show_icons=true&theme=radical)
+
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelKD&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EmmanuelKD&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKD&layout=compact&theme=radical)
