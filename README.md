@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 - **Languages:** TypeScript, JavaScript, Python
 
 ### 🚀 Featured Projects:
+- **Sabiman:** We’re creating a platform that connects service providers with locals in urgent need—right when it matters most, [Check it out](https://sabiman.co/)
 - **AgriLink:** A solution to reduce food wastage in Sierra Leone by connecting farmers with buyers. [Check it out](https://luma-fe.vercel.app/)
 - **Solana Pay Integration:** A YouTube tutorial demonstrating how to handle transfer requests using Solana Pay. [Watch it here](https://www.youtube.com/@emmanuelkofi8343)
 
