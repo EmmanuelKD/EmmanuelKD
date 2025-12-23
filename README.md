@@ -6,12 +6,10 @@ Welcome to my GitHub profile! I'm a **software engineer** with a passion for sol
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=EmmanuelKD&theme=radical)
 
 ### 🔭 What I’m Currently Working On:
-- **Innovative applications** in the fields of logistics.
-- **Data structures and algorithms** blog to help others understand complex concepts.
-
+- **An NLP project** aimed at bridging the gap between literate and illiterate users when it comes to using digital systems in Africa.
+ 
 ### 🌱 What I’m Learning:
-- Advanced data structures like **Union-Find** and **Dynamic Programming**.
-- **Artificial Intelligence (AI)** and its applications in software engineering.
+- **Artificial Intelligence (AI)**.
 - Improving my expertise in **data science**, balancing between software engineering and AI trends.
 
 ### 💻 Tech Stack:
