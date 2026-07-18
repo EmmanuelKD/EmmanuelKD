@@ -33,7 +33,7 @@ Follow along — architecture decisions, trade-offs, and benchmarks land in the 
 
 ## 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/emmanuel-danquah-b6b1b01b0) · [Portfolio](https://my-portfolio-6e5c-git-kofiscustom-emmanuelkds-projects.vercel.app/) · kemmanue662@gmail.com
+[LinkedIn](https://www.linkedin.com/in/emmanuel-danquah-b6b1b01b0) · [Portfolio](https://ekdanquah.com) · danquah662@gmail.com
 
 <!-- Optional: one compact stats card max. Delete if it pushes flagships below the fold. -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKD&layout=compact&hide_border=true)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelKD&layout=compact&hide_border=true)-->
