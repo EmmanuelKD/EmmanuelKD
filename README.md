@@ -10,7 +10,7 @@ I make AI systems work in production: inference pipelines, queue-based architect
 
 I'm spending 12 weekends building two production-grade backend systems in the open:
 
-- **[ai-image-background-remover](https://github.com/EmmanuelKD/ai-image-pipeline)** — Batch AI image Background Removal processing pipeline: 1,000+ images per run through BullMQ/Redis queues, Node.js orchestration, and Python inference workers (InSPyReNet background removal). Idempotent jobs, retries with backoff, Prometheus/Grafana observability, and published benchmarks. Based on a system I delivered for a client in production.
+- **[ai-image-background-remover](https://github.com/EmmanuelKD/ai-image-background-remover)** — Batch AI image Background Removal processing pipeline: 1,000+ images per run through BullMQ/Redis queues, Node.js orchestration, and Python inference workers (InSPyReNet background removal). Idempotent jobs, retries with backoff, Prometheus/Grafana observability, and published benchmarks. Based on a system I delivered for a client in production.
 - **[stylist-backend](https://github.com/EmmanuelKD/stylist-backend)** — NestJS + PostgreSQL backend for an AI wardrobe platform: row-level security for multi-tenancy, pgvector similarity search, documented indexing decisions (real `EXPLAIN` plans), and a two-tier inference strategy (on-device model + cloud fallback).
 
 Follow along — architecture decisions, trade-offs, and benchmarks land in the READMEs as I go.
